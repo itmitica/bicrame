@@ -2,7 +2,7 @@
 bookmarks I can read and modify easily
 
 ## Structure
-The bookmarks list is a definition list. A bookmark entry is a definition element. The definition term is the title. The first definition is the url. The second definition is a list of tags.
+The bookmarks list is a definitions list. A bookmark entry is a definition element. The definition term is the title. The first definition is the url. The second definition is a list of tags.
 
 ## Exemplification
 ### Markdown - extended syntax
