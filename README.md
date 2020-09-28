@@ -7,8 +7,13 @@ A bookmark entry is a definition element. The bookmarks list is a definition lis
 ## Exemplification
 ### Markdown
 ```
+##
+[itmitica (Mitică) · GitHub](https://github.com/itmitica)
+: `https://github.com/itmitica`
+: version control software repository bookmarks
+##
 [itmitica (Mitică) · GitHub](https://github.com/itmitica)
 : `https://github.com/itmitica`
 : version control software repository bookmarks
 ```
-![md rendition](mdex.png)
+![md rendition](mdrend.png)
