@@ -1,5 +1,5 @@
 # bicrame
-Bookmarks I can read and modify easily
+bookmarks I can read and modify easily
 
 ## Structure
 A bookmark entry is a definition element. The bookmarks list is a definition list. The definition term is the title. The first definition is the url. The second definition is a list of tags.
