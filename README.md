@@ -36,6 +36,7 @@ itmitica (Mitică) · GitHub
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
 <dd><code>version</code> <code>control</code> <code>software</code> <code>repository</code> <code>bookmarks</code></dd>
 </dl>
+
 ## Meta retrieval
 
 ```
