@@ -50,7 +50,7 @@ T
 <dd>itmitica (Mitică) · GitHub</dd>
 </dl>
 
-## Meta retrieval
+## Product preparation process
 
 ```
 wget -qO- https://github.com/itmitica | grep -o "<title>[^<]*" | sed -e 's/<[^>]*>//g'
