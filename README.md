@@ -8,6 +8,8 @@ A bookmark is defined by: URL, title, description, keywords. Only the URL is man
 ### Markdown - extended syntax
 
 ```
+### B
+
 U
 : https://github.com/itmitica
 
@@ -20,7 +22,7 @@ D
 K
 : `version` `control` `software` `repository` `bookmarks`
 
-***
+### B
 
 U
 : https://github.com/itmitica
@@ -29,21 +31,22 @@ T
 : itmitica (Mitică) · GitHub
 ```
 
+<h3>B</h3>
 <dl>
-<dt><em>U</em></dt>
+<dt>U</dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
-<dt><em>T</em></dt>
+<dt>T</dt>
 <dd>itmitica (Mitică) · GitHub</dd>
-<dt><em>D</em></dt>
+<dt>D</dt>
 <dd>A GitHub repo</dd>
-<dt><em>K</em></dt>
+<dt>K</dt>
 <dd><code>version</code> <code>control</code> <code>software</code> <code>repository</code> <code>bookmarks</code></dd>
 </dl>
-<hr>
+<h3>B</h3>
 <dl>
-<dt><em>U</em></dt>
+<dt>U</dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
-<dt><em>T</em></dt>
+<dt>T</dt>
 <dd>itmitica (Mitică) · GitHub</dd>
 </dl>
 
