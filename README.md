@@ -1,4 +1,4 @@
-# b∙u∙t∙d∙k marks
+# butdk-marks
 My own recipe for bookmark preserve.
 
 ## Composition
