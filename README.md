@@ -1,10 +1,10 @@
-# BUTDK marks
-Bookmarks, my way.
+# Butdk marks
+My own recipe for bookmark preserve.
 
-## Structure
-A **B**ookmark is defined by: **U**RL, **T**itle, **D**escription, **K**eywords. Only the URL is a must.
+## Composition
+A **b**ookmark is defined by: **u**rl, **t**itle, **d**escription, **k**eywords. Only the url is a must.
 
-## Exemplification
+## Specimen
 ### Markdown - extended syntax
 
 ```
