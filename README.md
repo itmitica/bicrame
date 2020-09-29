@@ -1,8 +1,8 @@
-# utakad-marks
+# utikad-marks
 My own recipe for bookmark preserve.
 
 ## Composition
-A bookmark is essentially defined by its origin, the **u**rl, and non-essentially defined by a **t**itle, an **a**bout short description, by a few **k**eywords, by its **a**uthor and by the **d**ay when it was made.
+A bookmark is essentially defined by its origin, the **u**rl, and non-essentially defined by a **t**itle, a short **i**nfo, by a few **k**eywords, by its **a**uthor and by the **d**ay when it was made.
 
 ## Specimen
 ### Markdown - extended syntax
@@ -16,7 +16,7 @@ U
 T
 : itmitica (Mitică) · GitHub
 
-A
+I
 : A GitHub repo
 
 K
@@ -51,7 +51,7 @@ D
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
 <dt>T</dt>
 <dd>itmitica (Mitică) · GitHub</dd>
-<dt>A</dt>
+<dt>I</dt>
 <dd>A GitHub repo</dd>
 <dt>K</dt>
 <dd><code>version</code> <code>control</code> <code>software</code> <code>repository</code> <code>bookmarks</code></dd>
