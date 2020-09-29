@@ -2,7 +2,7 @@
 My own recipe for bookmark preserve.
 
 ## Composition
-A bookmark is defined by: **u**rl, **t**itle, **d**escription, **k**eywords. Only the url is a must.
+A bookmark is defined by: **u**rl, **t**itle, **d**escription, **k**eywords. The key ingredient: the **u**rl.
 
 ## Specimen
 ### Markdown - extended syntax
