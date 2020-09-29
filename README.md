@@ -2,7 +2,7 @@
 Bookmarks, my way.
 
 ## Structure
-A bookmark is defined by: URL, title, description, keywords. Only the URL is mandatory.
+A **B**ookmark is defined by: **U**RL, **T**itle, **D**escription, **K**eywords. Only the URL is a must.
 
 ## Exemplification
 ### Markdown - extended syntax
