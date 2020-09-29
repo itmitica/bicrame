@@ -49,25 +49,27 @@ D
 <dl>
 <dt>U</dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
-<dt>D</dt>
-<dd>2020-09-29</dd>
-<dt>A</dt>
-<dd>mit</dd>
 <dt>N</dt>
 <dd>itmitica (Mitică) · GitHub</dd>
 <dt>I</dt>
 <dd>A GitHub repo</dd>
 <dt>T</dt>
 <dd><code>version</code> <code>control</code> <code>software</code> <code>repository</code> <code>bookmarks</code></dd>
+<dt>A</dt>
+<dd>mit</dd>
+<dt>D</dt>
+<dd>2020-09-29</dd>
 </dl>
 <hr>
 <dl>
 <dt>U</dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
-<dt>D</dt>
-<dd>2020-09-29</dd>
+<dt>N</dt>
+<dd>itmitica (Mitică) · GitHub</dd>
 <dt>A</dt>
 <dd>mit</dd>
+<dt>D</dt>
+<dd>2020-09-29</dd>
 </dl>
 <hr>
 
