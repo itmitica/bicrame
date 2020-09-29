@@ -1,8 +1,8 @@
-# daunit-marks
+# udanit-marks
 My own recipe for bookmark preserve.
 
 ## Composition
-A bookmark is essentially defined by the **d**ay when it was made, its **a**uthor, the origin: **u**rl, and non-essentially by a **n**ame, an **i**nformational short description and by a few **t**ags.
+A bookmark is essentially defined by the origin: **u**rl, by the **d**ay when it was made, by its **a**uthor, and non-essentially by a **n**ame, an **i**nformational short description and by a few **t**ags.
 
 ## Specimen
 ### Markdown - extended syntax
@@ -10,14 +10,14 @@ A bookmark is essentially defined by the **d**ay when it was made, its **a**utho
 ```
 ***
 
+U
+: https://github.com/itmitica
+
 D
 : 2020-09-29
 
 A
 : mit
-
-U
-: https://github.com/itmitica
 
 N
 : itmitica (Mitică) · GitHub
@@ -30,26 +30,26 @@ T
 
 ***
 
+U
+: https://github.com/itmitica
+
 D
 : 2020-09-29
 
 A
 : mit
 
-U
-: https://github.com/itmitica
-
 ***
 ```
 
 <hr>
 <dl>
+<dt>U</dt>
+<dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
 <dt>D</dt>
 <dd>2020-09-29</dd>
 <dt>A</dt>
 <dd>mit</dd>
-<dt>U</dt>
-<dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
 <dt>N</dt>
 <dd>itmitica (Mitică) · GitHub</dd>
 <dt>I</dt>
@@ -59,12 +59,12 @@ U
 </dl>
 <hr>
 <dl>
+<dt>U</dt>
+<dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
 <dt>D</dt>
 <dd>2020-09-29</dd>
 <dt>A</dt>
 <dd>mit</dd>
-<dt>U</dt>
-<dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
 </dl>
 <hr>
 
