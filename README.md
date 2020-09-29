@@ -1,5 +1,5 @@
-# bicrame
-bookmarks I can read and modify easily
+# Butdkmarks
+Bookmarks, my way.
 
 ## Structure
 A bookmark is defined by: URL, title, description, keywords. Only the URL is mandatory.
