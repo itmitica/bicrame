@@ -2,39 +2,49 @@
 bookmarks I can read and modify easily
 
 ## Structure
-The bookmarks list is a definitions list. A bookmark entry is a definition element.
-
-The definition term is the title. The first definition is a short description. The second definition is the URL. The third definition is a list of keywords, tags.
+A bookmark is defined by: URL, title, description, keywords. Only the URL is mandatory.
 
 ## Exemplification
 ### Markdown - extended syntax
 
 ```
-##
-itmitica (Mitică) · GitHub
-: A guy's GitHub repo
+*U*
 : https://github.com/itmitica
-: version control software repository bookmarks
-##
-itmitica (Mitică) · GitHub
-: A guy's GitHub repo
+
+*T*
+: itmitica (Mitică) · GitHub
+
+*D*
+: A GitHub repo
+
+*K*
+: `version` `control` `software` `repository` `bookmarks`
+
+***
+
+*U*
 : https://github.com/itmitica
-: version control software repository bookmarks
+
+*T*
+: itmitica (Mitică) · GitHub
 ```
 
-<h2></h2>
 <dl>
-<dt>itmitica (Mitică) · GitHub</dt>
-<dd>A guy’s GitHub repo</dd>
+<dt><em>U</em></dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
+<dt><em>T</em></dt>
+<dd>itmitica (Mitică) · GitHub</dd>
+<dt><em>D</em></dt>
+<dd>A GitHub repo</dd>
+<dt><em>K</em></dt>
 <dd><code>version</code> <code>control</code> <code>software</code> <code>repository</code> <code>bookmarks</code></dd>
 </dl>
-<h2></h2>
+<hr>
 <dl>
-<dt>itmitica (Mitică) · GitHub</dt>
-<dd>A guy’s GitHub repo</dd>
+<dt><em>U</em></dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
-<dd><code>version</code> <code>control</code> <code>software</code> <code>repository</code> <code>bookmarks</code></dd>
+<dt><em>T</em></dt>
+<dd>itmitica (Mitică) · GitHub</dd>
 </dl>
 
 ## Meta retrieval
