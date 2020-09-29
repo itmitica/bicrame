@@ -1,8 +1,8 @@
-# unitad-marks
+# utakad-marks
 My own recipe for bookmark preserve.
 
 ## Composition
-A bookmark is essentially defined by its origin, the **u**rl, and non-essentially by a **n**ame, an **i**nformational short description, by a few **t**ags, the **d**ay when it was made and by its **a**uthor.
+A bookmark is essentially defined by its origin, the **u**rl, and non-essentially defined by a **t**itle, an **a**bout short description, by a few **k**eywords, by its **a**uthor and by the **d**ay when it was made.
 
 ## Specimen
 ### Markdown - extended syntax
@@ -13,13 +13,13 @@ A bookmark is essentially defined by its origin, the **u**rl, and non-essentiall
 U
 : https://github.com/itmitica
 
-N
+T
 : itmitica (Mitică) · GitHub
 
-I
+A
 : A GitHub repo
 
-T
+K
 : `version` `control` `software` `repository` `bookmarks`
 
 A
@@ -33,7 +33,7 @@ D
 U
 : https://github.com/itmitica
 
-N
+T
 : itmitica (Mitică) · GitHub
 
 A
@@ -49,11 +49,11 @@ D
 <dl>
 <dt>U</dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
-<dt>N</dt>
-<dd>itmitica (Mitică) · GitHub</dd>
-<dt>I</dt>
-<dd>A GitHub repo</dd>
 <dt>T</dt>
+<dd>itmitica (Mitică) · GitHub</dd>
+<dt>A</dt>
+<dd>A GitHub repo</dd>
+<dt>K</dt>
 <dd><code>version</code> <code>control</code> <code>software</code> <code>repository</code> <code>bookmarks</code></dd>
 <dt>A</dt>
 <dd>mit</dd>
@@ -64,7 +64,7 @@ D
 <dl>
 <dt>U</dt>
 <dd><a href="https://github.com/itmitica">https://github.com/itmitica</a></dd>
-<dt>N</dt>
+<dt>T</dt>
 <dd>itmitica (Mitică) · GitHub</dd>
 <dt>A</dt>
 <dd>mit</dd>
