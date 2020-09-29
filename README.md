@@ -1,8 +1,8 @@
-# udanit-marks
+# unitad-marks
 My own recipe for bookmark preserve.
 
 ## Composition
-A bookmark is essentially defined by the origin: **u**rl, by the **d**ay when it was made, by its **a**uthor, and non-essentially by a **n**ame, an **i**nformational short description and by a few **t**ags.
+A bookmark is essentially defined by its origin, the **u**rl, and non-essentially by a **n**ame, an **i**nformational short description, by a few **t**ags, the **d**ay when it was made and by its **a**uthor.
 
 ## Specimen
 ### Markdown - extended syntax
@@ -13,12 +13,6 @@ A bookmark is essentially defined by the origin: **u**rl, by the **d**ay when it
 U
 : https://github.com/itmitica
 
-D
-: 2020-09-29
-
-A
-: mit
-
 N
 : itmitica (Mitică) · GitHub
 
@@ -28,16 +22,25 @@ I
 T
 : `version` `control` `software` `repository` `bookmarks`
 
+A
+: mit
+
+D
+: 2020-09-29
+
 ***
 
 U
 : https://github.com/itmitica
 
-D
-: 2020-09-29
+N
+: itmitica (Mitică) · GitHub
 
 A
 : mit
+
+D
+: 2020-09-29
 
 ***
 ```
