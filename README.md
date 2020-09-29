@@ -8,24 +8,24 @@ A bookmark is defined by: URL, title, description, keywords. Only the URL is man
 ### Markdown - extended syntax
 
 ```
-*U*
+U
 : https://github.com/itmitica
 
-*T*
+T
 : itmitica (Mitică) · GitHub
 
-*D*
+D
 : A GitHub repo
 
-*K*
+K
 : `version` `control` `software` `repository` `bookmarks`
 
 ***
 
-*U*
+U
 : https://github.com/itmitica
 
-*T*
+T
 : itmitica (Mitică) · GitHub
 ```
 
