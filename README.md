@@ -73,10 +73,3 @@ D
 </dl>
 <hr>
 
-## Product preparation process
-
-```
-wget -qO- https://github.com/itmitica | grep -o "<title>[^<]*" | sed -e 's/<[^>]*>//g'
-<meta name="description" content="
-<meta name="keywords" content="
-```
